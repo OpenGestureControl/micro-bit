@@ -1,0 +1,12 @@
+{
+  "name": "OpenGestureControl",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": "OpenGestureControl",
+  "license": "MIT",
+  "dependencies": {
+    "microbit": "lancaster-university/microbit"
+  },
+  "targetDependencies": {},
+  "bin": "./source"
+}
